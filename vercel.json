@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/equipe.html", "dest": "/equipe.html" },
+    { "src": "/(.*)", "dest": "/dashboard.html" }
+  ]
+}
